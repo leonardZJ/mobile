@@ -1,6 +1,6 @@
 # mobile
 
-> A Vue.js project
+> A Vue.js projec
 
 ## Build Setup
 
